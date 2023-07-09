@@ -1,4 +1,7 @@
 <h2 align="center">Hi 👋!</h2>
+<div align="center">
+  <img width="200" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY4ZGZxMzhjb3N3ZDZhcWl6cDRnMDBpano2dDc1ZWhib2gzdTRicyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" />
+</div>
 
 ###
 
@@ -6,7 +9,7 @@
 
 - 🔭 I’m currently working on **my HUST's projects**
 
-- 🌱 I’m currently learning **.NET, JS**
+- 🌱 I’m currently learning **JS, TYPESCRIPT**
 
 ###
 
