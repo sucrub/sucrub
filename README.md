@@ -30,3 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
 
+# My contributions
+###
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sucrub/sucrub/output/github-contribution-grid-snake.svg" />
+
